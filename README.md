@@ -23,12 +23,12 @@ Este es un script en Python que permite convertir documentos de **Microsoft Word
    
 2. **Instalar las dependencias**:
  
-     pip install pywin32
+        pip install pywin32
    
 ## Uso
 Ejecuta el script y sigue las instrucciones:
 
-  python convertidor.py
+        python convertidor.py
 
 El programa pedirá que ingreses la ruta de la carpeta y el archivo a convertir. Luego, generará un archivo PDF en la misma carpeta.
 
